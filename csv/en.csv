@@ -462,3 +462,4 @@ Extruder T0 turned off due to inactivity timeout {unused_extruders_off_time} min
 Extruder T1 turned off due to inactivity timeout {unused_extruders_off_time} min;Extruder T1 turned off due to inactivity timeout {unused_extruders_off_time} min
 Extruder T2 turned off due to inactivity timeout {unused_extruders_off_time} min;Extruder T2 turned off due to inactivity timeout {unused_extruders_off_time} min
 Extruder T3 turned off due to inactivity timeout {unused_extruders_off_time} min;Extruder T3 turned off due to inactivity timeout {unused_extruders_off_time} min
+To load manually without pausing, press 'Manual';To load manually without pausing, press 'Manual'

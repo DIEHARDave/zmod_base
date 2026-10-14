@@ -462,3 +462,4 @@ Extruder T0 turned off due to inactivity timeout {unused_extruders_off_time} min
 Extruder T1 turned off due to inactivity timeout {unused_extruders_off_time} min;挤出机 T1 因闲置超时在 {unused_extruders_off_time} 分钟后关闭
 Extruder T2 turned off due to inactivity timeout {unused_extruders_off_time} min;挤出机 T2 因闲置超时在 {unused_extruders_off_time} 分钟后关闭
 Extruder T3 turned off due to inactivity timeout {unused_extruders_off_time} min;挤出机 T3 因闲置超时在 {unused_extruders_off_time} 分钟后关闭
+To load manually without pausing, press 'Manual';如需在不暂停的情况下手动进料，请按 'Manual'

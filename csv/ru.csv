@@ -459,3 +459,4 @@ Extruder T0 turned off due to inactivity timeout {unused_extruders_off_time} min
 Extruder T1 turned off due to inactivity timeout {unused_extruders_off_time} min;Экструдер T1 выключен по таймауту простоя через {unused_extruders_off_time} мин
 Extruder T2 turned off due to inactivity timeout {unused_extruders_off_time} min;Экструдер T2 выключен по таймауту простоя через {unused_extruders_off_time} мин
 Extruder T3 turned off due to inactivity timeout {unused_extruders_off_time} min;Экструдер T3 выключен по таймауту простоя через {unused_extruders_off_time} мин
+To load manually without pausing, press 'Manual';Для ручной подачи без паузы нажмите 'Manual'

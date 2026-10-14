@@ -462,3 +462,4 @@ Extruder T0 turned off due to inactivity timeout {unused_extruders_off_time} min
 Extruder T1 turned off due to inactivity timeout {unused_extruders_off_time} min;Ekstrüder T1 boştaki zaman aşımı nedeniyle {unused_extruders_off_time} dk içinde kapatıldı
 Extruder T2 turned off due to inactivity timeout {unused_extruders_off_time} min;Ekstrüder T2 boştaki zaman aşımı nedeniyle {unused_extruders_off_time} dk içinde kapatıldı
 Extruder T3 turned off due to inactivity timeout {unused_extruders_off_time} min;Ekstrüder T3 boştaki zaman aşımı nedeniyle {unused_extruders_off_time} dk içinde kapatıldı
+To load manually without pausing, press 'Manual';Duraklatmadan manuel besleme için 'Manual' düğmesine basın
