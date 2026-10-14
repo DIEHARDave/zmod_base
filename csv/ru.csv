@@ -391,7 +391,7 @@ Z-Offset loaded from native screen;Z-Offset загружено с родного
 Did you know that you can access your printer remotely using zmod.link?;Знаете ли вы, что можно получить удалённый доступ к принтеру с помощью zmod.link?
 Do not save the state of filament sensors;Не сохранять состояние датчиков филамента
 Save the state of filament sensors;Сохранять состояние датчиков филамента
-Z-Offset saved in global settings;Z-Offset сохранённый в глобальных настройках
+-Offset saved in global settings;-Offset сохранённый в глобальных настройках
 Z-Offset saved in the native screen;Z-Offset сохранённый в родном экране
 The printer has started printing the file;Принтер начал печатать файл
 The printer has finished printing the file;Принтер закончил печатать файл
