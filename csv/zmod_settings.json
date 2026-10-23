@@ -549,6 +549,11 @@
         "reset": {
             "type": "special",
             "category": "System",
+            "code": "RESPOND TYPE=command MSG=\"action:prompt_button Plugins|PLUGINS|green\""
+        },
+        "reset": {
+            "type": "special",
+            "category": "System",
             "code": "RESPOND TYPE=command MSG=\"action:prompt_button Reset Z-Mod Global| _RESET_ZMOD|orange\""
         }
     }
